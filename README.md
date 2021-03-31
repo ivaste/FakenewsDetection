@@ -40,7 +40,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Team
 | <a href="https://stefanoivancich.com" target="_blank">**Stefano Ivancich**</a> | <a href="https://github.com/Zanett96" target="_blank">**Marco Zanetti**</a> |
 | :---: |:---:|
-| [![Stefano Ivancich](https://avatars1.githubusercontent.com/u/36710626?s=200&v=4)](https://stefanoivancich.com)    | [![Marco Zanetti](https://avatars.githubusercontent.com/u/47916640?v=4)](https://github.com/Zanett96) |
+| [![Stefano Ivancich](https://avatars1.githubusercontent.com/u/36710626?s=200&v=4)](https://stefanoivancich.com)    | [![Marco Zanetti](https://avatars.githubusercontent.com/u/47916640?s=200)](https://github.com/Zanett96) |
 | <a href="https://github.com/ivaste" target="_blank">`github.com/ivaste`</a> | <a href="https://github.com/Zanett96" target="_blank">`github.com/Zanett96`</a> |
 
 
