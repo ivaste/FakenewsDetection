@@ -1,13 +1,13 @@
 # AI for Fake News Detection in Social Networks
 
-Brief description....
+Fake news are not a new thing, there are documents that prove their usage in politics at least since Cicerone 64 BC. According to the most recent behavioral psychology research fake news are today’s winning communication strategy for politicians. In this paper we briefly present a few psychological and historical concepts that will be the foundation for any AI technique to solve the problem. Then we review the 2 most common techniques used today (2021). And finally we propose our detection schema which implements novel Machine Learning approaches in Natural Language Processing (NLP) to identify if a text is either a Fake news or not.
 
-<!-- ADD GIF demonstration --> TODO: add GIF demonstration
+<!-- ADD GIF demonstration -->
 <!-- ADD IMAGE -->
 
 [📈 Download Presentation PDF](https://github.com/ivaste/FakenewsDetection/raw/main/Presentation/AI%20for%20Fake%20News%20Detection%20in%20Social%20Networks.pdf)
 
-[📄 Download Paper PDF]()
+[📄 Download Paper PDF](https://github.com/ivaste/FakenewsDetection/raw/main/Paper/AI%20for%20Fake%20News%20Detection%20in%20Social%20Networks.pdf)
 
 
 ## Table of Contents
