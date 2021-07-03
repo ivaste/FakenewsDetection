@@ -19,7 +19,7 @@ Fake news are not a new thing, there are documents that prove their usage in pol
 
 
 ## Overview
-Description ....
+Fake news is defined as: false or misleading information presented as news It often has the aim of damaging the reputation of a person or entity, or making money through advertising revenue. Users on social media tend to form groups containing like-minded people where they then polarize their opinions, resulting in an echo chamber effect.
 
 ## Usage
 .......
