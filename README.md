@@ -1,19 +1,14 @@
-# ???AI for Fakenew Detection (choose better title?)???
+# AI for Fake News Detection in Social Networks
 
 Brief description....
 
 <!-- ADD GIF demonstration --> TODO: add GIF demonstration
 <!-- ADD IMAGE -->
 
-[📈 Download Presentation PDF]()
+[📈 Download Presentation PDF](https://github.com/ivaste/FakenewsDetection/raw/main/Presentation/AI%20for%20Fake%20News%20Detection%20in%20Social%20Networks.pdf)
 
 [📄 Download Paper PDF]()
 
-[🕹️ Try Live Demo]()
-
-[📺 Watch Presentation]()
-
-[📺 Watch Live Demo]()
 
 ## Table of Contents
 - [Overview](#overview)
